@@ -1,6 +1,6 @@
 # Hi, I'm Mainak Banerjee 👋
 
-### CCloud Infrastructure Engineer | AWS | Linux | DevOps | Terraform | Automation
+### Cloud Infrastructure Engineer | AWS | Linux | DevOps | Terraform | Automation
 
 I am a Cloud Infrastructure Engineer with **15+ years of experience** in Linux systems administration, AWS infrastructure, enterprise automation, cloud migration, and DevOps.
 
